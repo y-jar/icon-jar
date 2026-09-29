@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>jar's icons</title>
+        <link rel="icon" href="JarOnPar.png" />
+        <link rel="stylesheet" href="style.css?v=1" />
+    </head>
+    <body>
+        <!-- floating particles background -->
+        <canvas id="particles"></canvas>
+
+        <h1>jar's icons</h1>
+        <p class="subtitle">my collected icons &amp; profile pictures · click to view · <span class="kbd">@tag</span> to filter</p>
+
+        <!-- search -->
+        <div class="search-wrap">
+            <input
+                id="search"
+                type="text"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder='search names or "@icon" / "@pfp" / "@halftone" ...'
+                aria-label="search icons"
+            />
+            <div id="results" class="search-dropdown" hidden></div>
+        </div>
+
+        <!-- icons -->
+        <section class="section">
+            <h2>Icons <span class="count" id="count-iconbin"></span></h2>
+            <div class="grid" id="grid-iconbin"></div>
+        </section>
+
+        <!-- profile pictures -->
+        <section class="section">
+            <h2>Profile Pictures <span class="count" id="count-pfpbin"></span></h2>
+            <div class="grid" id="grid-pfpbin"></div>
+        </section>
+
+        <!-- lightbox -->
+        <div id="lightbox" class="lightbox" hidden>
+            <div class="lightbox-inner">
+                <button id="lightbox-close" class="lightbox-close" aria-label="close">&#10005;</button>
+                <img id="lightbox-img" alt="" />
+                <div class="lightbox-meta">
+                    <div class="card-name" id="lightbox-name"></div>
+                    <div class="tags" id="lightbox-tags"></div>
+                    <div class="meta-grid" id="lightbox-meta"></div>
+                    <a id="lightbox-dl" class="download" href="#">&#8681; Download</a>
+                </div>
+            </div>
+        </div>
+
+        <footer>hosted on <a href="https://github.com/y-jar/icon-jar">icon-jar</a> via github pages</footer>
+
+        <script src="script.js?v=1"></script>
+    </body>
+</html>
