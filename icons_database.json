@@ -1,15 +1,4 @@
 {
-  "CameraIcon26x25.ico": {
-    "filename": "CameraIcon26x25.ico",
-    "dir": "iconbin",
-    "size": 2762,
-    "ext": "ico",
-    "tags": [
-      "26x25",
-      "camera",
-      "icon"
-    ]
-  },
   "CameraIcon26x25.png": {
     "filename": "CameraIcon26x25.png",
     "dir": "iconbin",
@@ -19,18 +8,6 @@
       "26x25",
       "camera",
       "icon"
-    ]
-  },
-  "CameraJar26x25.ico": {
-    "filename": "CameraJar26x25.ico",
-    "dir": "iconbin",
-    "size": 2762,
-    "ext": "ico",
-    "tags": [
-      "26x25",
-      "camera",
-      "icon",
-      "jar"
     ]
   },
   "CameraJar26x25.png": {
@@ -60,16 +37,6 @@
     "dir": "iconbin",
     "size": 657,
     "ext": "png",
-    "tags": [
-      "icon",
-      "jar"
-    ]
-  },
-  "JarOnPar.ico": {
-    "filename": "JarOnPar.ico",
-    "dir": "iconbin",
-    "size": 2762,
-    "ext": "ico",
     "tags": [
       "icon",
       "jar"
@@ -107,18 +74,6 @@
       "jara"
     ]
   },
-  "JaraIcon26x25.ico": {
-    "filename": "JaraIcon26x25.ico",
-    "dir": "iconbin",
-    "size": 2762,
-    "ext": "ico",
-    "tags": [
-      "26x25",
-      "icon",
-      "jar",
-      "jara"
-    ]
-  },
   "VidTapeIcon26x25.png": {
     "filename": "VidTapeIcon26x25.png",
     "dir": "iconbin",
@@ -141,54 +96,12 @@
       "tape"
     ]
   },
-  "VidTapeJar26x25.ico": {
-    "filename": "VidTapeJar26x25.ico",
-    "dir": "iconbin",
-    "size": 2762,
-    "ext": "ico",
-    "tags": [
-      "26x25",
-      "icon",
-      "jar",
-      "tape"
-    ]
-  },
   "Xenia, the Linux mascot.png": {
     "filename": "Xenia, the Linux mascot.png",
     "dir": "iconbin",
     "size": 368380,
     "ext": "png",
     "tags": [
-      "icon"
-    ]
-  },
-  "cursed-jar.ico": {
-    "filename": "cursed-jar.ico",
-    "dir": "iconbin",
-    "size": 9662,
-    "ext": "ico",
-    "tags": [
-      "icon",
-      "jar"
-    ]
-  },
-  "folder-JarOnPar300300.png": {
-    "filename": "folder-JarOnPar300300.png",
-    "dir": "iconbin",
-    "size": 36056,
-    "ext": "png",
-    "tags": [
-      "icon",
-      "jar"
-    ]
-  },
-  "foxMCIcon.ico": {
-    "filename": "foxMCIcon.ico",
-    "dir": "iconbin",
-    "size": 41662,
-    "ext": "ico",
-    "tags": [
-      "fox",
       "icon"
     ]
   },
@@ -231,28 +144,6 @@
       "pfp"
     ]
   },
-  "AngyAgitKrakk.png": {
-    "filename": "AngyAgitKrakk.png",
-    "dir": "pfpbin",
-    "size": 1655,
-    "ext": "png",
-    "tags": [
-      "agitkrakk",
-      "pfp"
-    ]
-  },
-  "AngyAgitKrakk600x600-rounded.png": {
-    "filename": "AngyAgitKrakk600x600-rounded.png",
-    "dir": "pfpbin",
-    "size": 14607,
-    "ext": "png",
-    "tags": [
-      "600x600",
-      "agitkrakk",
-      "pfp",
-      "rounded"
-    ]
-  },
   "AngyAgitKrakk600x600.png": {
     "filename": "AngyAgitKrakk600x600.png",
     "dir": "pfpbin",
@@ -273,26 +164,6 @@
       "pfp"
     ]
   },
-  "CNTH-AHHH.png": {
-    "filename": "CNTH-AHHH.png",
-    "dir": "pfpbin",
-    "size": 284228,
-    "ext": "png",
-    "tags": [
-      "cnth",
-      "pfp"
-    ]
-  },
-  "CNTH-Left.png": {
-    "filename": "CNTH-Left.png",
-    "dir": "pfpbin",
-    "size": 134152,
-    "ext": "png",
-    "tags": [
-      "cnth",
-      "pfp"
-    ]
-  },
   "CNTH.png": {
     "filename": "CNTH.png",
     "dir": "pfpbin",
@@ -301,16 +172,6 @@
     "tags": [
       "cnth",
       "pfp"
-    ]
-  },
-  "DogDays-Warframe.png": {
-    "filename": "DogDays-Warframe.png",
-    "dir": "pfpbin",
-    "size": 107274,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "warframe"
     ]
   },
   "ESTATIC_CAUGHT.jpg": {
@@ -406,26 +267,6 @@
       "pfp"
     ]
   },
-  "Screenshot 2023-10-15 191833.png": {
-    "filename": "Screenshot 2023-10-15 191833.png",
-    "dir": "pfpbin",
-    "size": 31947,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "screenshot"
-    ]
-  },
-  "Screenshot 2023-10-15 191929.png": {
-    "filename": "Screenshot 2023-10-15 191929.png",
-    "dir": "pfpbin",
-    "size": 337889,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "screenshot"
-    ]
-  },
   "Screenshot 2023-11-06 160510.png": {
     "filename": "Screenshot 2023-11-06 160510.png",
     "dir": "pfpbin",
@@ -446,61 +287,11 @@
       "screenshot"
     ]
   },
-  "Screenshot 2023-11-12 163639.png": {
-    "filename": "Screenshot 2023-11-12 163639.png",
-    "dir": "pfpbin",
-    "size": 28615,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "screenshot"
-    ]
-  },
-  "Screenshot 2023-12-27 215655.png": {
-    "filename": "Screenshot 2023-12-27 215655.png",
-    "dir": "pfpbin",
-    "size": 68295,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "screenshot"
-    ]
-  },
-  "Screenshot 2024-03-30 232641.png": {
-    "filename": "Screenshot 2024-03-30 232641.png",
-    "dir": "pfpbin",
-    "size": 446895,
-    "ext": "png",
-    "tags": [
-      "pfp",
-      "screenshot"
-    ]
-  },
-  "SmirkOwlSmall.png": {
-    "filename": "SmirkOwlSmall.png",
-    "dir": "pfpbin",
-    "size": 40385,
-    "ext": "png",
-    "tags": [
-      "owl",
-      "pfp",
-      "smirk"
-    ]
-  },
   "Tylくん.png": {
     "filename": "Tylくん.png",
     "dir": "pfpbin",
     "size": 1132830,
     "ext": "png",
-    "tags": [
-      "pfp"
-    ]
-  },
-  "ashbyPic.jpg": {
-    "filename": "ashbyPic.jpg",
-    "dir": "pfpbin",
-    "size": 84385,
-    "ext": "jpg",
     "tags": [
       "pfp"
     ]
@@ -657,16 +448,6 @@
       "halftone",
       "long",
       "man",
-      "pfp"
-    ]
-  },
-  "halftone-Tyl-regor.png": {
-    "filename": "halftone-Tyl-regor.png",
-    "dir": "pfpbin",
-    "size": 16113,
-    "ext": "png",
-    "tags": [
-      "halftone",
       "pfp"
     ]
   },
