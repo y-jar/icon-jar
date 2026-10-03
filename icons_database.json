@@ -115,6 +115,51 @@
       "icon"
     ]
   },
+  "iler_LUAN.png": {
+    "filename": "iler_LUAN.png",
+    "dir": "iconbin",
+    "size": 42795,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_RETRIEVE_bright.png": {
+    "filename": "iler_RETRIEVE_bright.png",
+    "dir": "iconbin",
+    "size": 19876,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_RETRIEVE_dark.png": {
+    "filename": "iler_RETRIEVE_dark.png",
+    "dir": "iconbin",
+    "size": 21283,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_WHISPER_bright.png": {
+    "filename": "iler_WHISPER_bright.png",
+    "dir": "iconbin",
+    "size": 22045,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_WHISPER_dark.png": {
+    "filename": "iler_WHISPER_dark.png",
+    "dir": "iconbin",
+    "size": 22936,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
   "nix.png": {
     "filename": "nix.png",
     "dir": "iconbin",
