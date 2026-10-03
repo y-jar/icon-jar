@@ -205,10 +205,38 @@
       "icon"
     ]
   },
+  "jarnet.png": {
+    "filename": "jarnet.png",
+    "dir": "iconbin",
+    "size": 2365,
+    "ext": "png",
+    "tags": [
+      "icon",
+      "jar"
+    ]
+  },
   "nix.png": {
     "filename": "nix.png",
     "dir": "iconbin",
     "size": 41200,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "tox_logo_base.png": {
+    "filename": "tox_logo_base.png",
+    "dir": "iconbin",
+    "size": 7290,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "tox_logo_round.png": {
+    "filename": "tox_logo_round.png",
+    "dir": "iconbin",
+    "size": 10132,
     "ext": "png",
     "tags": [
       "icon"
