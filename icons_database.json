@@ -115,6 +115,24 @@
       "icon"
     ]
   },
+  "iler_EITOON_bright.png": {
+    "filename": "iler_EITOON_bright.png",
+    "dir": "iconbin",
+    "size": 21649,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_EITOON_dark.png": {
+    "filename": "iler_EITOON_dark.png",
+    "dir": "iconbin",
+    "size": 21586,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
   "iler_LUAN.png": {
     "filename": "iler_LUAN.png",
     "dir": "iconbin",
@@ -137,6 +155,24 @@
     "filename": "iler_RETRIEVE_dark.png",
     "dir": "iconbin",
     "size": 21283,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_VIARA_bright.png": {
+    "filename": "iler_VIARA_bright.png",
+    "dir": "iconbin",
+    "size": 16860,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "iler_VIARA_dark.png": {
+    "filename": "iler_VIARA_dark.png",
+    "dir": "iconbin",
+    "size": 18053,
     "ext": "png",
     "tags": [
       "icon"
