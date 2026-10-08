@@ -105,6 +105,15 @@
       "icon"
     ]
   },
+  "excalidraw-dark.png": {
+    "filename": "excalidraw-dark.png",
+    "dir": "iconbin",
+    "size": 19059,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
   "foxMCIcon.png": {
     "filename": "foxMCIcon.png",
     "dir": "iconbin",
@@ -205,6 +214,18 @@
       "icon"
     ]
   },
+  "jara_logo_rounded.png": {
+    "filename": "jara_logo_rounded.png",
+    "dir": "iconbin",
+    "size": 107162,
+    "ext": "png",
+    "tags": [
+      "icon",
+      "jar",
+      "jara",
+      "rounded"
+    ]
+  },
   "jarnet.png": {
     "filename": "jarnet.png",
     "dir": "iconbin",
@@ -215,10 +236,37 @@
       "jar"
     ]
   },
+  "jellyfin.webp": {
+    "filename": "jellyfin.webp",
+    "dir": "iconbin",
+    "size": 38922,
+    "ext": "webp",
+    "tags": [
+      "icon"
+    ]
+  },
+  "jellyfin_logo.png": {
+    "filename": "jellyfin_logo.png",
+    "dir": "iconbin",
+    "size": 39899,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
   "nix.png": {
     "filename": "nix.png",
     "dir": "iconbin",
     "size": 41200,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "nueon_logo.png": {
+    "filename": "nueon_logo.png",
+    "dir": "iconbin",
+    "size": 18589,
     "ext": "png",
     "tags": [
       "icon"
@@ -255,6 +303,15 @@
     "filename": "turntable_logo_dark.png",
     "dir": "iconbin",
     "size": 18774,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
+  "youtube_logo.png": {
+    "filename": "youtube_logo.png",
+    "dir": "iconbin",
+    "size": 7319,
     "ext": "png",
     "tags": [
       "icon"
