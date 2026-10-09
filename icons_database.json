@@ -254,6 +254,15 @@
       "icon"
     ]
   },
+  "messages_logo.png": {
+    "filename": "messages_logo.png",
+    "dir": "iconbin",
+    "size": 1475,
+    "ext": "png",
+    "tags": [
+      "icon"
+    ]
+  },
   "nix.png": {
     "filename": "nix.png",
     "dir": "iconbin",
