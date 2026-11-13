@@ -254,6 +254,15 @@
       "icon"
     ]
   },
+  "komga.ico": {
+    "filename": "komga.ico",
+    "dir": "iconbin",
+    "size": 15086,
+    "ext": "ico",
+    "tags": [
+      "icon"
+    ]
+  },
   "messages_logo.png": {
     "filename": "messages_logo.png",
     "dir": "iconbin",
